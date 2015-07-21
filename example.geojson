@@ -1,0 +1,29 @@
+{
+	"type" : "FeatureCollection",
+	"features" : [{
+			"type" : "Feature",
+			"id" : "1",
+			"properties" : {
+				"EspId" : "123456",
+				"TimeStamp" : "2015-07-21.........",
+				"Accuracy" : 34
+			},
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [4.9242, 52.212154]
+			}
+		}, {
+			"type" : "Feature",
+			"id" : "2",
+			"properties" : {
+				"EspId" : "789012",
+				"TimeStamp" : ""2015-07-21.......",
+				"Accuracy" : 45
+			},
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [4.924637, 52.212924]
+			}
+		}
+	]
+}
